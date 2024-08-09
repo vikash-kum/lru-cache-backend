@@ -33,5 +33,3 @@ Follow these steps to set up the project on your local machine:
    ```bash
    go run main.go
    ```
-
-### Alternatively, Run Using `go run`
